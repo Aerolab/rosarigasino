@@ -1,0 +1,22 @@
+{
+  "name": "rosarigasino",
+  "version": "1.0.0",
+  "description": "Egasel mejogasor lenguagasaje degasel mugasundo",
+  "keywords": [
+    "rosarigasino"
+  ],
+  "main": "rosarigasino.js",
+  "scripts": {
+    "test": "echo \"Errogasor: nogaso tegasest spegasecified\" && exit 1"
+  },
+  "bin": {
+    "rosarigasino": "rosarigasino.js",
+    "rosarigasinode": "rosarigasino.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aerolab/rosarigasino.git"
+  },
+  "author": "Aerolab",
+  "license": "ISC"
+}
